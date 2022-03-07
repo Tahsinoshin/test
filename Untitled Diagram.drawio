@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T22:03:19.141Z" agent="5.0 (Windows)" etag="35YxlXYakkT3VIOEAnoP" version="16.6.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-07T22:07:39.748Z" agent="5.0 (Windows)" etag="XlFDnHfB3mUOdzQYin2Q" version="16.6.7" type="github" pages="8">
   <diagram id="oYLIC8xYfova4NLlg7Rr" name="Activity-1">
     <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -836,6 +836,15 @@
         </mxCell>
         <mxCell id="nfn1Jr3eGOlRZ3ENl45--6" value="Type?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="nfn1Jr3eGOlRZ3ENl45--1">
           <mxGeometry x="342.5" y="200" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nfn1Jr3eGOlRZ3ENl45--11" value="Admin Staff Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="nfn1Jr3eGOlRZ3ENl45--1">
+          <mxGeometry x="20" y="360" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nfn1Jr3eGOlRZ3ENl45--12" value="Staff Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="nfn1Jr3eGOlRZ3ENl45--1">
+          <mxGeometry x="330" y="360" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nfn1Jr3eGOlRZ3ENl45--13" value="Faculty Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="nfn1Jr3eGOlRZ3ENl45--1">
+          <mxGeometry x="580" y="360" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
